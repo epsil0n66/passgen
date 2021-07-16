@@ -1,0 +1,14 @@
+{
+  "name": "123",
+  "version": "1.0.0",
+  "description": "Password generator",
+  "repository": "passgen",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron app.js"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^3.0.2"
+  }
+}

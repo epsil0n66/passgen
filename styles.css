@@ -1,0 +1,39 @@
+* { font-family: 'Segoe UI';
+}
+html, body, .container-fluid {
+  background-color: #e0b378;
+}
+
+.text-input {
+  font-size: 16px;
+}
+
+.hash-output {
+  color: #a51a1a;
+  font-size: 16px;
+  letter-spacing: 2px;
+  white-space: pre-wrap;
+}
+
+.hash-heading {
+  color: #751009;
+  font-weight: normal;
+}
+
+button {
+  background-color: #4CAF50;;
+  color: white;
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  text-decoration: none;
+  font-size: 16px;
+  box-shadow: inset 0 0 0 0 yellow;
+  transition: ease-out 0.5s;
+  font-family: 'Roboto', sans-serif;
+}
+button:hover {
+  box-shadow: inset 300px 0 0 0 rgb(79, 25, 230);
+  cursor:pointer;
+  color:rgb(255, 255, 255);
